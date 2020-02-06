@@ -1,0 +1,20 @@
+.dog {
+    font-family: cursive;
+    color: crimson;
+    float: left;
+    font-style: oblique;
+}
+
+.cat {
+    font-family: monospace;
+    color: green;
+    float: left;
+    font-style: normal;
+}
+
+.parrot {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: olive;
+    float: left;
+    font-style: italic;
+}
